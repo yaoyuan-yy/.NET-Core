@@ -45,6 +45,10 @@
             "Com.Ctrip.Framework.Apollo.Configuration": {
               "target": "Package",
               "version": "[2.2.0, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[5.0.0-rc4, )"
             }
           },
           "imports": [

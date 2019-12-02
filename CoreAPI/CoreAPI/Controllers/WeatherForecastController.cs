@@ -23,6 +23,10 @@ namespace CoreAPI.Controllers
             _logger = logger;
         }
 
+        /// <summary>
+        /// get测试方法
+        /// </summary>
+        /// <returns></returns>
         [HttpGet]
         public IEnumerable<WeatherForecast> Get()
         {
