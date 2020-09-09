@@ -1,0 +1,83 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Model</name>
+    </assembly>
+    <members>
+        <member name="P:Model.Advertisement.Id">
+            <summary>
+            ID
+            </summary>
+        </member>
+        <member name="P:Model.Advertisement.ImgUrl">
+            <summary>
+            广告图片
+            </summary>
+        </member>
+        <member name="P:Model.Advertisement.Title">
+            <summary>
+            广告标题
+            </summary>
+        </member>
+        <member name="P:Model.Advertisement.Url">
+            <summary>
+            广告连接
+            </summary>
+        </member>
+        <member name="P:Model.Advertisement.Remark">
+            <summary>
+            备注
+            </summary>
+        </member>
+        <member name="P:Model.Advertisement.CreateDate">
+            <summary>
+            创建时间
+            </summary>
+        </member>
+        <member name="T:Model.Auth.TokenModelJwt">
+            <summary>
+            令牌
+            </summary>
+        </member>
+        <member name="P:Model.Auth.TokenModelJwt.Uid">
+            <summary>
+            Id
+            </summary>
+        </member>
+        <member name="P:Model.Auth.TokenModelJwt.Role">
+            <summary>
+            角色
+            </summary>
+        </member>
+        <member name="P:Model.Auth.TokenModelJwt.Work">
+            <summary>
+            职能
+            </summary>
+        </member>
+        <member name="P:Model.ReturnModel`1.Success">
+            <summary>
+            是否操作成功
+            </summary>
+        </member>
+        <member name="P:Model.ReturnModel`1.Msg">
+            <summary>
+            返回信息
+            </summary>
+        </member>
+        <member name="P:Model.ReturnModel`1.Data">
+            <summary>
+            返回数据集合
+            </summary>
+        </member>
+        <member name="P:Model.TestDTO.id">
+            <summary>
+            id
+            </summary>
+        </member>
+        <member name="P:Model.TestDTO.name">
+            <summary>
+            name
+            </summary>
+        </member>
+    </members>
+</doc>

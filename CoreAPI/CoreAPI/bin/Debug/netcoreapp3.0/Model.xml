@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Model</name>
+    </assembly>
+    <members>
+        <member name="P:Model.TestDTO.id">
+            <summary>
+            id
+            </summary>
+        </member>
+        <member name="P:Model.TestDTO.name">
+            <summary>
+            name
+            </summary>
+        </member>
+    </members>
+</doc>
